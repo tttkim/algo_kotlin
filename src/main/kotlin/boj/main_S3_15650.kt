@@ -10,10 +10,10 @@ fun main() {
     M = sc.nextInt()
 
     var result = IntArray(M)
-    permutation(0, 1, result)
+    combination(0, 1, result)
 }
 
-fun permutation(cnt: Int, start: Int, result: IntArray) {
+fun combination(cnt: Int, start: Int, result: IntArray) {
     if (cnt >= M){
         for (c in result){
             print(c)
@@ -25,7 +25,7 @@ fun permutation(cnt: Int, start: Int, result: IntArray) {
 
     for (n in start..N){
         result[cnt] = n
-        permutation(cnt+1, n+1, result)
+        combination(cnt+1, n+1, result)
     }
 }
 

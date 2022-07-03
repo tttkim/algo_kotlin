@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c561a923-59e8-489c-932c-2542b3630011" name="Changes" comment="220702">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_S3_15650.kt" afterDir="false" />
+    <list default="true" id="c561a923-59e8-489c-932c-2542b3630011" name="Changes" comment="220703">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/boj/main_S3_15650.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_S3_15650.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656741621906</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="220703">
+      <created>1656855532171</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656855532171</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,7 +198,8 @@
     <MESSAGE value="220630" />
     <MESSAGE value="220701" />
     <MESSAGE value="220702" />
-    <option name="LAST_COMMIT_MESSAGE" value="220702" />
+    <MESSAGE value="220703" />
+    <option name="LAST_COMMIT_MESSAGE" value="220703" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
