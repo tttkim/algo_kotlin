@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c561a923-59e8-489c-932c-2542b3630011" name="Changes" comment="220703">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_S1_11660.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_S3_15654.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/boj/main_S3_15650.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_S3_15650.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +54,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Main_S3_15650Kt">
+  <component name="RunManager" selected="Kotlin.Main_S1_11660Kt">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
       <setting name="bbPath" value="" />
@@ -97,15 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_G5_1107Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.Main_G5_1107Kt" />
-      <module name="AlgoKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_S3_11659Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.Main_S3_11659Kt" />
+    <configuration name="Main_S1_11660Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.Main_S1_11660Kt" />
       <module name="AlgoKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,6 +107,13 @@
     </configuration>
     <configuration name="Main_S3_15650Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="boj.Main_S3_15650Kt" />
+      <module name="AlgoKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_S3_15654Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.Main_S3_15654Kt" />
       <module name="AlgoKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Main_S1_11660Kt" />
+        <item itemvalue="Kotlin.Main_S3_15654Kt" />
         <item itemvalue="Kotlin.Main_S3_15650Kt" />
         <item itemvalue="Kotlin.TestKt" />
         <item itemvalue="Kotlin.Main_G2_1167Kt" />
-        <item itemvalue="Kotlin.Main_G5_1107Kt" />
-        <item itemvalue="Kotlin.Main_S3_11659Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656855532171</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="220703">
+      <created>1656855708560</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656855708560</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +208,26 @@
     <MESSAGE value="220702" />
     <MESSAGE value="220703" />
     <option name="LAST_COMMIT_MESSAGE" value="220703" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/boj/main_S3_15654.kt</url>
+          <line>20</line>
+          <properties method="permutation">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/boj/main_S1_11660.kt</url>
+          <line>33</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
