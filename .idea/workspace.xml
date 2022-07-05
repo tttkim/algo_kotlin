@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c561a923-59e8-489c-932c-2542b3630011" name="Changes" comment="220704">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_S2_11725.kt" afterDir="false" />
+    <list default="true" id="c561a923-59e8-489c-932c-2542b3630011" name="Changes" comment="220705">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_G5_9251.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Main_S2_11725Kt">
+  <component name="RunManager" selected="Kotlin.Main_G5_9251Kt">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
       <setting name="bbPath" value="" />
@@ -90,6 +90,13 @@
       <setting name="focusEditor" value="false" />
       <method v="2" />
     </configuration>
+    <configuration name="Main_G5_9251Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.Main_G5_9251Kt" />
+      <module name="AlgoKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main_S1_11660Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="boj.Main_S1_11660Kt" />
       <module name="AlgoKotlin" />
@@ -118,20 +125,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.TestKt" />
-      <module name="AlgoKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Main_G5_9251Kt" />
         <item itemvalue="Kotlin.Main_S2_11725Kt" />
         <item itemvalue="Kotlin.Main_S1_11660Kt" />
         <item itemvalue="Kotlin.Main_S3_15654Kt" />
         <item itemvalue="Kotlin.Main_S3_15650Kt" />
-        <item itemvalue="Kotlin.TestKt" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656905199050</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="220705">
+      <created>1657032600816</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1657032600816</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,7 +221,8 @@
     <MESSAGE value="220702" />
     <MESSAGE value="220703" />
     <MESSAGE value="220704" />
-    <option name="LAST_COMMIT_MESSAGE" value="220704" />
+    <MESSAGE value="220705" />
+    <option name="LAST_COMMIT_MESSAGE" value="220705" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -237,6 +245,11 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/boj/main_S2_11725.kt</url>
           <line>18</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/boj/main_G5_9251.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
