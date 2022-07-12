@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c561a923-59e8-489c-932c-2542b3630011" name="Changes" comment="220708">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_G4_2448.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_G5_12865.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_S4_2407.kt" afterDir="false" />
+    <list default="true" id="c561a923-59e8-489c-932c-2542b3630011" name="Changes" comment="220711">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_S1_1932.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_S1_1991.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/boj/main_G2_1918.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_G2_1918.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +42,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/rlaxogk/IdeaProjects/AlgoKotlin",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rlaxogk/IdeaProjects/AlgoKotlin&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.Main_G4_2448Kt">
+}</component>
+  <component name="RunManager" selected="Kotlin.Main_S1_1932Kt">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
       <setting name="bbPath" value="" />
@@ -94,20 +92,6 @@
       <setting name="focusEditor" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Main_G2_1918Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.Main_G2_1918Kt" />
-      <module name="AlgoKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_G4_1753Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.Main_G4_1753Kt" />
-      <module name="AlgoKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main_G4_2448Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="boj.Main_G4_2448Kt" />
       <module name="AlgoKotlin" />
@@ -122,6 +106,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main_S1_1932Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.Main_S1_1932Kt" />
+      <module name="AlgoKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_S1_1991Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.Main_S1_1991Kt" />
+      <module name="AlgoKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main_S4_2407Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="boj.Main_S4_2407Kt" />
       <module name="AlgoKotlin" />
@@ -131,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Main_S1_1932Kt" />
+        <item itemvalue="Kotlin.Main_S1_1991Kt" />
         <item itemvalue="Kotlin.Main_G4_2448Kt" />
         <item itemvalue="Kotlin.Main_G5_12865Kt" />
         <item itemvalue="Kotlin.Main_S4_2407Kt" />
-        <item itemvalue="Kotlin.Main_G2_1918Kt" />
-        <item itemvalue="Kotlin.Main_G4_1753Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657291968422</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="220711">
+      <created>1657546254510</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657546254510</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,7 +261,8 @@
     <MESSAGE value="220705" />
     <MESSAGE value="220706" />
     <MESSAGE value="220708" />
-    <option name="LAST_COMMIT_MESSAGE" value="220708" />
+    <MESSAGE value="220711" />
+    <option name="LAST_COMMIT_MESSAGE" value="220711" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
