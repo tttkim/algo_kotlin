@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c561a923-59e8-489c-932c-2542b3630011" name="Changes" comment="220711">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_S1_1932.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_S1_1991.kt" afterDir="false" />
+    <list default="true" id="c561a923-59e8-489c-932c-2542b3630011" name="Changes" comment="220712">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_S1_9465.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_S2_16953.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Main_S1_1932Kt">
+  <component name="RunManager" selected="Kotlin.Main_S1_9465Kt">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
       <setting name="bbPath" value="" />
@@ -120,8 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main_S4_2407Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.Main_S4_2407Kt" />
+    <configuration name="Main_S1_9465Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.Main_S1_9465Kt" />
       <module name="AlgoKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Main_S1_9465Kt" />
         <item itemvalue="Kotlin.Main_S1_1932Kt" />
         <item itemvalue="Kotlin.Main_S1_1991Kt" />
         <item itemvalue="Kotlin.Main_G4_2448Kt" />
         <item itemvalue="Kotlin.Main_G5_12865Kt" />
-        <item itemvalue="Kotlin.Main_S4_2407Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657546254510</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="220712">
+      <created>1657636170519</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1657636170519</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,7 +269,8 @@
     <MESSAGE value="220706" />
     <MESSAGE value="220708" />
     <MESSAGE value="220711" />
-    <option name="LAST_COMMIT_MESSAGE" value="220711" />
+    <MESSAGE value="220712" />
+    <option name="LAST_COMMIT_MESSAGE" value="220712" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
