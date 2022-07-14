@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c561a923-59e8-489c-932c-2542b3630011" name="Changes" comment="220712">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_S1_9465.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_S2_16953.kt" afterDir="false" />
+    <list default="true" id="c561a923-59e8-489c-932c-2542b3630011" name="Changes" comment="220713">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/main_G5_13549.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/boj/test.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -55,7 +55,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Main_S1_9465Kt">
+  <component name="RunManager" selected="Kotlin.TestKt">
     <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
       <setting name="displayName" value="" />
       <setting name="bbPath" value="" />
@@ -92,15 +92,8 @@
       <setting name="focusEditor" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Main_G4_2448Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.Main_G4_2448Kt" />
-      <module name="AlgoKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main_G5_12865Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.Main_G5_12865Kt" />
+    <configuration name="Main_G5_13549Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.Main_G5_13549Kt" />
       <module name="AlgoKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -127,13 +120,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.TestKt" />
+      <module name="AlgoKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TestKt" />
+        <item itemvalue="Kotlin.Main_G5_13549Kt" />
         <item itemvalue="Kotlin.Main_S1_9465Kt" />
         <item itemvalue="Kotlin.Main_S1_1932Kt" />
         <item itemvalue="Kotlin.Main_S1_1991Kt" />
-        <item itemvalue="Kotlin.Main_G4_2448Kt" />
-        <item itemvalue="Kotlin.Main_G5_12865Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657636170519</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="220713">
+      <created>1657720012714</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1657720012714</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,7 +277,8 @@
     <MESSAGE value="220708" />
     <MESSAGE value="220711" />
     <MESSAGE value="220712" />
-    <option name="LAST_COMMIT_MESSAGE" value="220712" />
+    <MESSAGE value="220713" />
+    <option name="LAST_COMMIT_MESSAGE" value="220713" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -332,6 +340,11 @@
           <url>file://$PROJECT_DIR$/src/main/kotlin/boj/main_G5_12865.kt</url>
           <line>23</line>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/boj/main_G5_13549.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
